@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anshkapxxr, a 3rd year B.tech AIML student exploring ML and Deep Leaning world.
+- 👋 Hi, I’m Ansh Kapoor (@anshkapxxr), a 3rd year B.tech AIML student exploring ML and Deep Leaning world.
 - 👀 I’m interested in Machine Learning and Deep Learning  
 - 🌱 I’m currently learning something new  
 - 💞️ I’m looking to collaborate on python and Java related projects.
